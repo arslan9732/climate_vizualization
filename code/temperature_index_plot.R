@@ -1,5 +1,4 @@
 library(tidyverse)
-library(plotly)
 
 
 annual_temp <-
